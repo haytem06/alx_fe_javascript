@@ -31,6 +31,8 @@ function addQuote() {
 
 ["createAddQuoteForm"]
 
+["createElement", "appendChild"]
+
 
 alx_fe_javascript/
 └── dom-manipulation/
