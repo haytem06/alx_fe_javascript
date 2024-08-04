@@ -29,6 +29,8 @@ function addQuote() {
     }
 }
 
+["createAddQuoteForm"]
+
 
 alx_fe_javascript/
 └── dom-manipulation/
