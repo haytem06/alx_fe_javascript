@@ -69,6 +69,8 @@ function importFromJsonFile(event) {
     fileReader.readAsText(event.target.files[0]);
 }
 
+["Blob"]
+
 
 alx_fe_javascript/
 └── dom-manipulation/
