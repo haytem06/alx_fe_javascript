@@ -83,3 +83,5 @@ async function syncQuotesWithServer() {
     populateCategories();
     filterQuotes();
 }
+
+["method", "POST", "headers", "application/json", "Content-Type"]
