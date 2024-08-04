@@ -85,3 +85,5 @@ async function syncQuotesWithServer() {
 }
 
 ["method", "POST", "headers", "application/json", "Content-Type"]
+
+ ["alert", "Quotes synced with server!"]
